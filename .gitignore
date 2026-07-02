@@ -102,12 +102,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-logs/
-artifacts/
-catboost_info/
-venv/
-__pycache__/
-*.egg-info/
+
 .env
 .venv
 env/
@@ -115,8 +110,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-artifacts/
-*.pkl
+
 
 # Spyder project settings
 .spyderproject
